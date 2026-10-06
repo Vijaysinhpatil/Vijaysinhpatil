@@ -1,9 +1,12 @@
-Name: Vijaysinh Patil | GitHub: [YOUR_GITHUB_USERNAME] | Role/company: Full-Stack Developer, Incoming @ TCS
-Location: India (add city if you want) | Pitch: Building full-stack products and AI-powered solutions that turn ideas into useful software.
+Name: Vijaysinh Patil | GitHub: Vijaysinhpatil | Role/company: Full-Stack Developer, Incoming @ TCS
+Location: India | Pitch: Building full-stack products and AI-powered solutions that turn ideas into useful software.
 Roles: Full-Stack Developer, AI/ML Developer, Software Developer, MERN Stack Developer
 Stack: Next.js, TypeScript, React, Node.js, Express, PostgreSQL, Prisma, Redis, Tailwind CSS, AI/ML integration
 Hobbies: [3 INTERESTS]
-Projects: [3 NAMES + ACCURATE DESCRIPTIONS + URLS]
-Socials: [EXACT LINKEDIN, YOUTUBE, INSTAGRAM, TOPMATE URLS]
+Projects:
+1. WebiBook: Next.js webinar booking platform with real-time notifications (SSE + Redis pub/sub), scheduled reminder cron jobs, and a Prisma + PostgreSQL backend. URL: [REPO OR LIVE URL]
+2. Agentify: agent builder app with Clerk authentication, a Convex backend, and a dark-themed UI. URL: [REPO OR LIVE URL]
+3. AI SQL Query Builder: React + Node.js app that uses the Claude API to generate queries against a PostgreSQL database. URL: [REPO OR LIVE URL]
+Socials: LinkedIn: [URL] | Instagram: [URL] (remove YouTube and Topmate if you don't have them)
 Verified stats: omit
 Typed greeting text: "Hey, I'm"
